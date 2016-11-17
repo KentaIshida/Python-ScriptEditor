@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Subtitles file created by EZConvert V version 5.1.4 -->
+<tt xml:lang="ar" xmlns="http://www.w3.org/ns/ttml" xmlns:tts="http://www.w3.org/ns/ttml#styling" xmlns:ttp="http://www.w3.org/ns/ttml#parameter" xmlns:ttm="http://www.w3.org/ns/ttml#metadata" ttp:profile="http://www.netflix.com/ns/ttml/profile/nflx-tt" ttp:frameRate="25" ttp:frameRateMultiplier="1 1" ttp:dropMode="nonDrop" ttp:timeBase="smpte">
+  <head>
+    <styling>
+      <style xml:id="style.default" tts:fontFamily="Arial" tts:fontSize="100%" tts:fontStyle="normal" tts:fontWeight="normal" tts:backgroundColor="transparent" tts:color="white"/>
+    </styling>
+    <layout>
+      <region xml:id="region.after.center" tts:displayAlign="after" tts:textAlign="center" tts:origin="10% 10%" tts:extent="80% 80%"/>
+      <region xml:id="region.before.center" tts:displayAlign="before" tts:textAlign="center" tts:origin="10% 38%" tts:extent="80% 52%"/>
+      <region xml:id="region.before.center.1" tts:displayAlign="before" tts:textAlign="center" tts:origin="10% 31%" tts:extent="80% 59%"/>
+    </layout>
+  </head>
+  <body>
+    <div>
+      <p style="style.default" region="region.after.center" begin="00:00:01:00" end="00:00:02:12"><span tts:direction="rtl">في الحلقات السابقة...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:02:14" end="00:00:04:23"><span tts:direction="rtl">جعلت ابنتك "كلود"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:05:01" end="00:00:08:12"><span tts:direction="rtl">تعاني الضرب المبرح</span><br/><span tts:direction="rtl">فقط كي تتمكني من استعادة الوصاية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:08:14" end="00:00:10:11"><span tts:direction="rtl">وأنت قاتل.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:10:13" end="00:00:12:16"><span tts:direction="rtl">لم نعد حبيبين يا "كريستوف".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:12:18" end="00:00:14:18"><span tts:direction="rtl">نحن مجرد شخصين</span><br/><span tts:direction="rtl">يحتفظان بأسرار بعضهما البعض.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:14:20" end="00:00:17:02"><span tts:direction="rtl">إن استطاعت "روما"</span><br/><span tts:direction="rtl">أن تعطيني المزيد من الجنود.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:17:04" end="00:00:19:10"><span tts:direction="rtl">قد أتمكن في الحقيقة من استعادة بلادي</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:19:12" end="00:00:21:14"><span tts:direction="rtl">من المتمردين مثل البروتستانتي</span><br/><span tts:direction="rtl">"جون نوكس".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:21:16" end="00:00:24:15"><span tts:direction="rtl">يمكننا مساعدتك لتشتري جيشاً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:24:17" end="00:00:28:06"><span tts:direction="rtl">أنت ووالدي أعدمتم 13 فارساً</span><br/><span tts:direction="rtl">فقط لأنكما لم تتمكنا من التسديد لهم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:28:08" end="00:00:32:09"><span tts:direction="rtl">أتعرض لهجوم من قبل مجموعة أوغاد</span><br/><span tts:direction="rtl">يسمون أنفسهم بـ"الفرسان الحمر".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:32:11" end="00:00:36:02"><span tts:direction="rtl">الجنرال "غايغان"، نريد من</span><br/><span tts:direction="rtl">الجيش الفرنسي أن يحمي العرش.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:36:04" end="00:00:39:09"><span tts:direction="rtl">حالما يقبض رجالي جميع مستحقاتهم</span><br/><span tts:direction="rtl">مقابل خدمتهم في "إسكتلندا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:39:11" end="00:00:41:13"><span tts:direction="rtl">إذاً أخبر جنرالاتك</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:41:15" end="00:00:44:16"><span tts:direction="rtl">أنهم سيقبضون المال الذي يستحقه</span><br/><span tts:direction="rtl">رجالهم في الوليمة التي تقام تكريماً لهم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:57:00" end="00:00:57:20"><span tts:direction="rtl">يا للهول!</span></p>
+      <p style="style.default" region="region.after.center" begin="00:00:59:14" end="00:01:01:04"><span tts:direction="rtl">جنرالاتك. من فعل هذا؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:01:06" end="00:01:03:21"><span tts:direction="rtl">كانوا "الفرسان الحمر.</span><br/><span tts:direction="rtl">تركوا أثراً عنهم في غرفتي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:03:23" end="00:01:05:20"><span tts:direction="rtl">وقد سمموا الجميع ما عدانا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:05:22" end="00:01:07:07"><span tts:direction="rtl">ما يعني أنهم تمكنوا من دخول القلعة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:07:09" end="00:01:11:10"><span tts:direction="rtl">لقد نزفت في حلبة قتال لأتمكن</span><br/><span tts:direction="rtl">من تأمين الذهب لهؤلاء الرجال.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:11:12" end="00:01:14:02"><span tts:direction="rtl">كي يتمكنوا وأخيراً من الدفع</span><br/><span tts:direction="rtl">لجنودهم مقابل الحملة الإسكتلندية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:14:04" end="00:01:15:18"><span tts:direction="rtl">ومن سيصدق ذلك الآن؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:15:20" end="00:01:17:06"><span tts:direction="rtl">بالنسبة لبقية جيشكم</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:17:08" end="00:01:20:10"><span tts:direction="rtl">تبدون أنكم قتلتم الجنرالات</span><br/><span tts:direction="rtl">لتتجنبوا دفع ديونكم العسكرية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:20:12" end="00:01:21:14"><span tts:direction="rtl">إنه محق.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:21:16" end="00:01:24:09"><span tts:direction="rtl">حدث هذا الأمر تحت سقفنا.</span><br/><span tts:direction="rtl">أنا و"تشارلز" سنلام على هذا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:24:11" end="00:01:25:19"><span tts:direction="rtl">هذا ما يريده "الفرسان الحمر".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:25:21" end="00:01:28:23"><span tts:direction="rtl">أن يوقعوا بكم كي يثور الجيش</span><br/><span tts:direction="rtl">ضد آل "فالوا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:29:01" end="00:01:31:05"><span tts:direction="rtl">لتحفيز تمرد.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:31:07" end="00:01:33:04"><span tts:direction="rtl">إذاً مهمتنا بسيطة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:33:06" end="00:01:36:09"><span tts:direction="rtl">يجب ألا يعرف الجنود بما جرى أبداً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:36:11" end="00:01:37:07"><span tts:direction="rtl">يجب ألا يعرف أحد.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:37:09" end="00:01:39:06"><span tts:direction="rtl">كيف تبقي 9 جنرالات أموات سراً؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:39:08" end="00:01:41:06"><span tts:direction="rtl">ندفن الجثث.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:41:08" end="00:01:42:10"><span tts:direction="rtl">من عرف بشأن هذا العشاء؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:42:12" end="00:01:43:12"><span tts:direction="rtl">عدد كبير من الأشخاص.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:43:14" end="00:01:45:03"><span tts:direction="rtl">زوجاتهم وأصدقاؤهم ومساعدوهم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:45:05" end="00:01:48:02"><span tts:direction="rtl">عرف أولئك الأشخاص أنهم دُعيوا.</span><br/><span tts:direction="rtl">من عرف أنهم وصلوا فعلًا؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:48:04" end="00:01:50:13"><span tts:direction="rtl">لا أحد باستثنائنا</span><br/><span tts:direction="rtl">ومجموعة صغيرة من الخدم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:50:15" end="00:01:52:02"><span tts:direction="rtl">يجب أن نلزم الخدم بالصمت.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:52:04" end="00:01:55:14"><span tts:direction="rtl">"باش"، اجمعهم واعرض عليهم رشوة</span><br/><span tts:direction="rtl">مقابل صمتهم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:55:16" end="00:01:58:06"><span tts:direction="rtl">إن رفضوا قل لهم إنني سأقطع رأسهم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:01:59:03" end="00:02:00:16"><span tts:direction="rtl">أشك نوعاً ما في أنهم سيرفضون.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:00:18" end="00:02:02:12"><span tts:direction="rtl">أرضي لا تبعد كثيراً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:02:14" end="00:02:04:13"><span tts:direction="rtl">لدي مكان حيث يمكننا</span><br/><span tts:direction="rtl">أن ندفنهم فيه بسرية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:06:18" end="00:02:10:19"><span tts:direction="rtl">"كاثرين"، أصغي إلي!</span><br/><span tts:direction="rtl">لست مسؤولة عن هذا</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:10:21" end="00:02:14:06"><span tts:direction="rtl">بل "الفرسان الحمر"</span><br/><span tts:direction="rtl">وسيدفعون ثمن ما ارتكبوه.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:15:03" end="00:02:17:13"><span tts:direction="rtl">حتى ذلك الحين علينا أن نوحد قصتنا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:17:15" end="00:02:19:15"><span tts:direction="rtl">لم يصل الجنرالات قط.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:19:17" end="00:02:22:12"><span tts:direction="rtl">وحين ينتشر خبر اختفائهم</span><br/><span tts:direction="rtl">وسينتشر.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:22:14" end="00:02:25:16"><span tts:direction="rtl">سنكون مصدومين ومشوشين</span><br/><span tts:direction="rtl">كحال الجميع.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:26:20" end="00:02:28:03"><span tts:direction="rtl">لنبدأ العمل.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:28:05" end="00:02:29:05"><span tts:direction="rtl">"تشارلز".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:33:11" end="00:02:35:20"><span tts:direction="rtl">"العهد"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:35:22" end="00:02:36:23"><span tts:direction="rtl">"باش"!</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:38:03" end="00:02:40:10"><span tts:direction="rtl">ما قلته سابقاً</span><br/><span tts:direction="rtl">حول المجيء إلى "إسكتلندا"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:40:12" end="00:02:43:08"><span tts:direction="rtl">أفرحني لأن أفكر</span><br/><span tts:direction="rtl">أنك ستكون إلى جانبي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:43:10" end="00:02:45:22"><span tts:direction="rtl">لكن الآن ظروفنا تغيرت،</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:46:00" end="00:02:48:08"><span tts:direction="rtl">عائلة "فالوا" كلها تتعرض للهجوم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:48:10" end="00:02:50:13"><span tts:direction="rtl">"ماري"، إن لم تعودي قريباً</span><br/><span tts:direction="rtl">إلى "إسكتلندا"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:50:15" end="00:02:53:01"><span tts:direction="rtl">"جون نوكس" وغيره من البروتستانت</span><br/><span tts:direction="rtl">سيضعفون عرشك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:53:03" end="00:02:55:00"><span tts:direction="rtl">ستخسرين بلادك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:55:02" end="00:02:57:01"><span tts:direction="rtl">ما حدث لأولئك الجنرالات</span><br/><span tts:direction="rtl">ليس ذنبك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:02:57:03" end="00:02:58:23"><span tts:direction="rtl">"كاثرين" وعائلتها متحدون.</span></p>
+      <p style="style.default" region="region.before.center" begin="00:02:59:01" end="00:03:02:05"><span tts:direction="rtl">أولئك الرجال سيُسحقون</span><br/><span tts:direction="rtl">والحياة ستمضي قدماً.</span></p>
+      <p style="style.default" region="region.before.center.1" begin="00:03:03:23" end="00:03:05:16"><span tts:direction="rtl">أنت محق.</span></p>
+      <p style="style.default" region="region.before.center.1" begin="00:03:05:18" end="00:03:07:07"><span tts:direction="rtl">هدفي يكمن في مكان آخر</span></p>
+      <p style="style.default" region="region.before.center.1" begin="00:03:07:09" end="00:03:10:09"><span tts:direction="rtl">لكن هدفك هنا، في "فرنسا".</span></p>
+      <p style="style.default" region="region.before.center.1" begin="00:03:10:11" end="00:03:12:16"><span tts:direction="rtl">يجب حماية "تشارلز" و"كلود".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:03:12:18" end="00:03:15:03"><span tts:direction="rtl">قد تعود "مارغو" والصغار</span><br/><span tts:direction="rtl">في أي وقت.</span></p>
+      <p style="style.default" region="region.before.center.1" begin="00:03:15:05" end="00:03:18:05"><span tts:direction="rtl">يجب أن تبقى هنا مع عائلتك.</span></p>
+      <p style="style.default" region="region.before.center.1" begin="00:03:20:08" end="00:03:22:01"><span tts:direction="rtl">جيد جداً.</span></p>
+      <p style="style.default" region="region.before.center" begin="00:03:22:03" end="00:03:24:10"><span tts:direction="rtl">حين تغادرين إلى "إسكتلندا"</span><br/><span tts:direction="rtl">سأبقى هنا.</span></p>
+      <p style="style.default" region="region.before.center.1" begin="00:03:34:01" end="00:03:35:16"><span tts:direction="rtl">ماذا تقترح أيها الجنرال؟</span></p>
+      <p style="style.default" region="region.before.center" begin="00:03:35:18" end="00:03:38:07"><span tts:direction="rtl">أن نحضر السفن للصيانة</span><br/><span tts:direction="rtl">في نهاية الشهر.</span></p>
+      <p style="style.default" region="region.before.center" begin="00:03:38:09" end="00:03:41:00"><span tts:direction="rtl">يمكنني أن أعيدهم إلى "بحر الشمال"</span><br/><span tts:direction="rtl">في غضون أسبوع.</span></p>
+      <p style="style.default" region="region.before.center.1" begin="00:03:41:02" end="00:03:41:22"><span tts:direction="rtl">أسبوع؟</span></p>
+      <p style="style.default" region="region.before.center" begin="00:03:42:00" end="00:03:44:20"><span tts:direction="rtl">هل من الحكمة أن نترك "بحر الشمال"</span><br/><span tts:direction="rtl">من دون حراسة لمدة طويلة؟</span></p>
+      <p style="style.default" region="region.before.center" begin="00:03:44:22" end="00:03:47:03"><span tts:direction="rtl">لن يكون هناك سفن إنكليزية</span><br/><span tts:direction="rtl">لمراقبة القرصنة</span></p>
+      <p style="style.default" region="region.before.center.1" begin="00:03:47:05" end="00:03:48:14"><span tts:direction="rtl">لكنها مجازفة مقبولة.</span></p>
+      <p style="style.default" region="region.before.center.1" begin="00:03:50:01" end="00:03:52:13"><span tts:direction="rtl">جلالتك، وضع سفننا يتدهور</span></p>
+      <p style="style.default" region="region.before.center" begin="00:03:52:15" end="00:03:55:17"><span tts:direction="rtl">وإن لم نعالج الوضع، أخشى من أنه</span><br/><span tts:direction="rtl">سيتعذر إصلاحها.</span></p>
+      <p style="style.default" region="region.before.center" begin="00:03:56:09" end="00:03:59:12"><span tts:direction="rtl">إنها فترة هادئة نسبياً</span><br/><span tts:direction="rtl">في "بحر الشمال".</span></p>
+      <p style="style.default" region="region.before.center" begin="00:03:59:14" end="00:04:03:08"><span tts:direction="rtl">أفترض بأن الأسبوع ثمن بسيط</span><br/><span tts:direction="rtl">مقابل الحفاظ على أسطولنا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:04:04:21" end="00:04:06:04"><span tts:direction="rtl">لا بأس إذاً، فلترس السفن.</span></p>
+      <p style="style.default" region="region.before.center.1" begin="00:04:06:06" end="00:04:08:09"><span tts:direction="rtl">الآن، ماذا عن الساحل الجنوبي؟</span></p>
+      <p style="style.default" region="region.before.center.1" begin="00:04:09:21" end="00:04:12:03"><span tts:direction="rtl">هذه قصة مختلفة جلالتك،</span></p>
+      <p style="style.default" region="region.before.center" begin="00:04:12:05" end="00:04:14:23"><span tts:direction="rtl">لا يحترم الإسبان طرق تجارتنا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:04:18:04" end="00:04:19:06"><span tts:direction="rtl">صديقتي العزيزة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:04:19:08" end="00:04:23:17"><span tts:direction="rtl">لا بد من أنك متحمسة كثيراً</span><br/><span tts:direction="rtl">للعودة إلى الديار في نهاية الشهر.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:04:23:19" end="00:04:28:07"><span tts:direction="rtl">أخبروني أن أنسباءنا</span><br/><span tts:direction="rtl">في "ويتبي" و"موريفيلد"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:04:28:09" end="00:04:30:16"><span tts:direction="rtl">و"آيموث" قد اجتمعوا مؤخراً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:04:30:18" end="00:04:31:19"><span tts:direction="rtl">والدك...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:04:34:14" end="00:04:37:00"><span tts:direction="rtl">الأميرال الصالح لن يتمكن من الحضور.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:04:37:02" end="00:04:39:13"><span tts:direction="rtl">سيكون محتجزاً لخمسة أو سبعة أيام.</span></p>
+      <p style="style.default" region="region.before.center.1" begin="00:04:44:20" end="00:04:47:01"><span tts:direction="rtl">"تشارلز"، كنت أبحث عنك.</span></p>
+      <p style="style.default" region="region.before.center.1" begin="00:04:49:06" end="00:04:52:02"><span tts:direction="rtl">"ديلفين"، ماذا تفعلين هنا؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:04:53:09" end="00:04:54:21"><span tts:direction="rtl">تسرني رؤيتك أنا أيضاً، "باش".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:04:55:18" end="00:04:58:18"><span tts:direction="rtl">بالطبع، لم أتوقع أن أراك...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:04:58:20" end="00:05:01:03"><span tts:direction="rtl">استدعيتها لتعود كعارفة البلاط الجديدة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:05:01:05" end="00:05:02:13"><span tts:direction="rtl">نحتاج إلى موهبتها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:05:02:15" end="00:05:05:13"><span tts:direction="rtl">"الفرسان الحمر" يختبئون في ما بيننا</span><br/><span tts:direction="rtl">على الأرجح في البلاط.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:05:05:15" end="00:05:09:20"><span tts:direction="rtl">ترى لمسة "ديلفين" ما في قلب الرجال</span><br/><span tts:direction="rtl">وتكشف الصديق من العدو.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:05:11:04" end="00:05:13:00"><span tts:direction="rtl">"تشارلز"، هل يمكنني التكلم</span><br/><span tts:direction="rtl">مع "ديلفين" على انفراد؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:05:14:22" end="00:05:15:21"><span tts:direction="rtl">بالطبع.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:05:21:07" end="00:05:23:18"><span tts:direction="rtl">لا يمكنني أن أورطك في هذا التحقيق.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:05:23:20" end="00:05:26:10"><span tts:direction="rtl">حين ساعدتني لألاحق قاتل القلوب</span><br/><span tts:direction="rtl">كاد ذلك أن يدمرك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:05:26:12" end="00:05:30:12"><span tts:direction="rtl">"باش"، لقد شُفيت</span><br/><span tts:direction="rtl">وأنا مستعدة لأن أبدأ من جديد.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:05:32:05" end="00:05:35:11"><span tts:direction="rtl">حين غادرت البلاط</span><br/><span tts:direction="rtl">وعدتني بأن تنتظرني.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:05:35:13" end="00:05:37:05"><span tts:direction="rtl">هل تغير شيء ما؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:05:37:22" end="00:05:40:15"><span tts:direction="rtl">ما الأمر؟ هل تكن المشاعر لأخرى.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:05:40:17" end="00:05:41:22"><span tts:direction="rtl">آسف.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:05:42:00" end="00:05:44:01"><span tts:direction="rtl">أهتم لأمرك صدقاً ولكن...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:05:44:03" end="00:05:45:20"><span tts:direction="rtl">- لا يمكننا إنكار...</span><br/><span tts:direction="rtl">- لا تفعل إذاً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:05:47:08" end="00:05:50:08"><span tts:direction="rtl">وعدت الملك بأنني سأساعد</span><br/><span tts:direction="rtl">وسأفي بوعدي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:05:59:23" end="00:06:01:17"><span tts:direction="rtl">لورد "نارسيس".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:01:19" end="00:06:04:17"><span tts:direction="rtl">أصبحت السيد المستشار الآن.</span><br/><span tts:direction="rtl">رقتني "كاثرين".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:04:19" end="00:06:08:16"><span tts:direction="rtl">أنا سعيدة من أجلك.</span><br/><span tts:direction="rtl">لكن لدي الكثير من الأعمال لأتولاها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:08:18" end="00:06:10:06"><span tts:direction="rtl">تلقيت رسالة هذا الصباح من "لولا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:10:08" end="00:06:11:23"><span tts:direction="rtl">تم تهريبها من "إنكلترا"</span><br/><span tts:direction="rtl">من قبل أصدقائنا الكاثوليك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:12:01" end="00:06:14:23"><span tts:direction="rtl">بعد عشرات الرسائل التي كتبتها لزوجتي</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:15:01" end="00:06:17:03"><span tts:direction="rtl">والتي لم أتلق رداً عليها</span><br/><span tts:direction="rtl">تخيلي دهشتي</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:17:05" end="00:06:20:02"><span tts:direction="rtl">حين أدركت أن هذه ليست رسالة لي</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:20:04" end="00:06:21:19"><span tts:direction="rtl">وإنما رسالة مشفرة لك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:29:20" end="00:06:31:03"><span tts:direction="rtl">إنها تسمي مدناً ساحلية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:31:05" end="00:06:34:17"><span tts:direction="rtl">تذكر والدي الأميرال</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:34:19" end="00:06:37:15"><span tts:direction="rtl">الذي سيكون غائباً عند عودتي</span><br/><span tts:direction="rtl">إلى الديار في نهاية الشهر.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:41:05" end="00:06:42:05"><span tts:direction="rtl">تقول إن هناك أسبوعاً</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:42:07" end="00:06:44:14"><span tts:direction="rtl">يمكنني أن أعبر في خلاله بأمان</span><br/><span tts:direction="rtl">"بحر الشمال".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:44:16" end="00:06:48:02"><span tts:direction="rtl">حين لا تجوب البحرية الإنكليزية</span><br/><span tts:direction="rtl">المنطقة ولكن...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:48:04" end="00:06:49:15"><span tts:direction="rtl">كُتبت هذه الرسالة قبل أيام.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:49:17" end="00:06:52:15"><span tts:direction="rtl">إن أردت عبور البحار</span><br/><span tts:direction="rtl">من دون تدخل "إليزابيث"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:52:17" end="00:06:56:11"><span tts:direction="rtl">- هذا يعني أن علي الرحيل...</span><br/><span tts:direction="rtl">- سيكون حكيماً أن ترحلي الآن.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:06:58:17" end="00:06:59:13"><span tts:direction="rtl">يحدث الأمر فعلًا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:01:10" end="00:07:05:06"><span tts:direction="rtl">وأخيراً، بعد كل هذه السنوات</span><br/><span tts:direction="rtl">سأعود إلى دياري.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:10:21" end="00:07:13:22"><span tts:direction="rtl">نجري تفتيشاً في كل الغرف</span><br/><span tts:direction="rtl">لنرى ما إذا كان السم لا يزال هنا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:14:00" end="00:07:18:21"><span tts:direction="rtl">إن تمكنا من إيجاد الشخص المسؤول</span><br/><span tts:direction="rtl">ربما يمكننا منع تمرد.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:18:23" end="00:07:21:04"><span tts:direction="rtl">"كريستوف" يفترض بأنك في الدورية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:21:06" end="00:07:22:20"><span tts:direction="rtl">الملكة الوصية على العرش</span><br/><span tts:direction="rtl">طلبت حضوري.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:25:20" end="00:07:27:01"><span tts:direction="rtl">ظننت أن العلاقة بينكما انتهت. </span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:27:03" end="00:07:28:16"><span tts:direction="rtl">رغبات الحاكم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:29:23" end="00:07:33:09"><span tts:direction="rtl">حسناً إذاً، سأترككما.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:38:10" end="00:07:41:20"><span tts:direction="rtl">لا أحبذ أن تأتي إلى غرفتي علنية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:41:22" end="00:07:44:10"><span tts:direction="rtl">- والآن الوقت غير مناسب.</span><br/><span tts:direction="rtl">- لم لا؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:44:12" end="00:07:46:07"><span tts:direction="rtl">- هل من خطب؟</span><br/><span tts:direction="rtl">- أنا بخير.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:46:09" end="00:07:48:00"><span tts:direction="rtl">سمعتك تحضرين لوليمة ما</span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:48:02" end="00:07:49:12"><span tts:direction="rtl">في القاعة الكبرى الليلة الفائتة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:49:14" end="00:07:53:01"><span tts:direction="rtl">لكنك لم تستدعي الخدم</span><br/><span tts:direction="rtl">للتنظيف بعد ذلك، وهذا غريب.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:53:03" end="00:07:55:14"><span tts:direction="rtl">واستغرقت وقتاً طويلًا</span><br/><span tts:direction="rtl">للعودة إلى غرفتك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:55:16" end="00:07:58:15"><span tts:direction="rtl">هل تتبعني دوماً؟</span><br/><span tts:direction="rtl">تتعقب كل تحركاتي؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:07:58:17" end="00:08:01:00"><span tts:direction="rtl">إنها لعبة أمارسها أحياناً</span><br/><span tts:direction="rtl">كي أبقي نفسي مشغولًا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:01:02" end="00:08:05:06"><span tts:direction="rtl">أدعي أنك طريدتي ولكنني لا أقتلك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:06:20" end="00:08:09:03"><span tts:direction="rtl">أحاول أن أكون أفضل</span><br/><span tts:direction="rtl">كي نعود مقربين.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:09:05" end="00:08:11:22"><span tts:direction="rtl">حتى تتمكني من إخباري</span><br/><span tts:direction="rtl">بما يزعجك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:12:00" end="00:08:16:01"><span tts:direction="rtl">لأنني أحب أن أخبر من يبتزني</span><br/><span tts:direction="rtl">بكل شيء.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:17:11" end="00:08:20:01"><span tts:direction="rtl">بحقك. أنا أكثر من شخص يبتزك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:20:03" end="00:08:21:23"><span tts:direction="rtl">نعم، أنت رجل يقتل من أجل المتعة</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:22:01" end="00:08:23:15"><span tts:direction="rtl">كما تذكرني دوماً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:23:17" end="00:08:25:10"><span tts:direction="rtl">قاتل يحمل رسالة عارضية</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:25:12" end="00:08:28:03"><span tts:direction="rtl">تهددني في حال</span><br/><span tts:direction="rtl">حدث لك مكروه.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:28:05" end="00:08:30:04"><span tts:direction="rtl">تعرفين أسراري.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:30:06" end="00:08:33:05"><span tts:direction="rtl">وأعرف أسرارك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:33:07" end="00:08:35:02"><span tts:direction="rtl">جعلت ابنتك تتعرض للضرب.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:35:04" end="00:08:38:16"><span tts:direction="rtl">كي تتمكني من استعادة الوصاية</span><br/><span tts:direction="rtl">ولم أقتل منذ فترة طويلة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:38:18" end="00:08:42:05"><span tts:direction="rtl">لا أعرف لماذا تستبعدين أن</span><br/><span tts:direction="rtl">يكون لدينا مستقبل معاً. لا أستبعده.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:43:07" end="00:08:44:20"><span tts:direction="rtl">أرجوك اذهب.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:46:21" end="00:08:50:06"><span tts:direction="rtl">إذاً أخبريني لماذا تقلقك الوليمة؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:51:14" end="00:08:54:11"><span tts:direction="rtl">إن لم تخبريني بنفسك</span><br/><span tts:direction="rtl">فسأجد طريقة لأعرف بنفسي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:56:08" end="00:08:59:16"><span tts:direction="rtl">"كريستوف"، هل تعرف ذلك الشيء</span><br/><span tts:direction="rtl">الذي لطالما أردت أن تجربه؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:08:59:18" end="00:09:03:12"><span tts:direction="rtl">كف عن طرح الأسئلة وسأدعك تجربه.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:09:11:01" end="00:09:13:02"><span tts:direction="rtl">السفير "بلاكبيرن"، كما أمرت</span></p>
+      <p style="style.default" region="region.after.center" begin="00:09:13:04" end="00:09:16:15"><span tts:direction="rtl">عطلت زواج التحالف بين</span><br/><span tts:direction="rtl">الملكة "ماري" و"دون كارلوس".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:09:16:17" end="00:09:18:12"><span tts:direction="rtl">استخرجت المعلومات من الملكة</span></p>
+      <p style="style.default" region="region.after.center" begin="00:09:18:14" end="00:09:21:08"><span tts:direction="rtl">وحتى ساعدت "دادلي"</span><br/><span tts:direction="rtl">في إحباط خطة قتل ضدي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:09:22:20" end="00:09:27:03"><span tts:direction="rtl">لقد أثبت ولاءك لي وقيمتك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:09:27:05" end="00:09:29:09"><span tts:direction="rtl">ولائي لا يلين، مولاتي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:09:31:19" end="00:09:33:03"><span tts:direction="rtl">لكن يجب أن أعترف</span></p>
+      <p style="style.default" region="region.after.center" begin="00:09:33:05" end="00:09:36:16"><span tts:direction="rtl">أشعر بالفضول حيال كيفية انتهاء العلاقة</span><br/><span tts:direction="rtl">بينك وبين الملكة الإسكتلندية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:09:36:18" end="00:09:39:05"><span tts:direction="rtl">تشتهر بقدرتها على اجتذاب الرجال.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:09:41:01" end="00:09:43:14"><span tts:direction="rtl">هل وقت تحت تأثير "ماري"؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:09:43:16" end="00:09:45:18"><span tts:direction="rtl">بصراحة؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:09:45:20" end="00:09:49:22"><span tts:direction="rtl">كان هناك مرت تخيلت فيها</span><br/><span tts:direction="rtl">نفسي مغرماً بملكة الإسكتلنديين</span></p>
+      <p style="style.default" region="region.after.center" begin="00:09:50:00" end="00:09:51:04"><span tts:direction="rtl">لكن ليس في هذه الحياة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:09:51:06" end="00:09:53:17"><span tts:direction="rtl">أنت ملكتي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:09:53:19" end="00:09:56:01"><span tts:direction="rtl">وُلدت إنكليزياً وسأموت إنكليزياً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:09:58:08" end="00:10:01:15"><span tts:direction="rtl">قررت أن أكافئك على خدماتك</span><br/><span tts:direction="rtl">بمنحك منصب في البلاط هنا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:01:17" end="00:10:05:10"><span tts:direction="rtl">سأمنحك الفرصة لأن تعمل معي</span><br/><span tts:direction="rtl">عن كثب من الآن فصاعداً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:07:18" end="00:10:09:18"><span tts:direction="rtl">لا تجعلني أندم على ذلك الخيار.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:09:20" end="00:10:11:16"><span tts:direction="rtl">لن تندمي مولاتي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:15:11" end="00:10:18:04"><span tts:direction="rtl">ويمكنهم الهجوم في أي لحظة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:18:06" end="00:10:21:04"><span tts:direction="rtl">"باش"، كنت أبحث عنك</span><br/><span tts:direction="rtl">في كل مكان.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:22:00" end="00:10:23:11"><span tts:direction="rtl">آسف، لقد كنت شديد الانشغال.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:23:13" end="00:10:27:02"><span tts:direction="rtl">القلعة في حالة تأهب</span><br/><span tts:direction="rtl">بسبب "الفرسان الحمر".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:27:04" end="00:10:28:22"><span tts:direction="rtl">تبدين مضطربة. ما الأمر؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:30:00" end="00:10:32:03"><span tts:direction="rtl">حين كنت أتجول في القلعة بمفردي</span><br/><span tts:direction="rtl">في الليلة الماضية</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:32:05" end="00:10:33:22"><span tts:direction="rtl">شعرت بشيء.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:34:00" end="00:10:35:16"><span tts:direction="rtl">لم يكن "الفرسان الحمر".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:35:18" end="00:10:38:08"><span tts:direction="rtl">"باش"، أعتقد بأن القاتل</span><br/><span tts:direction="rtl">الذي سعينا إليه لا يزال حياً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:38:10" end="00:10:42:06"><span tts:direction="rtl">شعرت به، هنا</span><br/><span tts:direction="rtl">داخل القلعة، معنا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:42:08" end="00:10:44:03"><span tts:direction="rtl">هل أنت متأكدة؟ تم اعتقاله وإعدامه.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:44:05" end="00:10:45:22"><span tts:direction="rtl">أعرف ولكنني شعرت به ليلة الأمس.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:46:00" end="00:10:48:18"><span tts:direction="rtl">كانت يدله تحكمان الخناق</span><br/><span tts:direction="rtl">على عنق امرأة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:48:20" end="00:10:50:11"><span tts:direction="rtl">تقولين إن تلك المرأة قد خُنقت؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:50:13" end="00:10:52:00"><span tts:direction="rtl">لا، لم يقتلها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:52:02" end="00:10:58:00"><span tts:direction="rtl">لم يرد قتلها لأن تلك المرأة</span><br/><span tts:direction="rtl">تحميه بطريقة ما. يحتاج إليها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:10:58:02" end="00:11:02:04"><span tts:direction="rtl">سيدي، الملكة الوصية</span><br/><span tts:direction="rtl">تطلب حضورك ضرورياً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:03:23" end="00:11:06:17"><span tts:direction="rtl">أقدر لك إخباري بهذا.</span><br/><span tts:direction="rtl">يجب أن أذهب لمساعدة "كاثرين".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:06:19" end="00:11:09:15"><span tts:direction="rtl">لكن انتظريني في غرفتك</span><br/><span tts:direction="rtl">وسنتحرى عن الأمر</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:09:17" end="00:11:11:16"><span tts:direction="rtl">بعد أن أعالج مسألة "الفرسان الحمر".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:11:18" end="00:11:13:03"><span tts:direction="rtl">بالطبع.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:15:17" end="00:11:18:04"><span tts:direction="rtl">"كاثرين"، هناك أمر أودك أن تعرفيه.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:18:06" end="00:11:20:08"><span tts:direction="rtl">سأعود إلى "إسكتلندا"</span><br/><span tts:direction="rtl">في وقت أقرب مما تصورت.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:20:10" end="00:11:21:16"><span tts:direction="rtl">كم أقرب؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:21:18" end="00:11:23:07"><span tts:direction="rtl">أحرك قواتي الآن.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:23:09" end="00:11:24:23"><span tts:direction="rtl">لم الآن؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:25:01" end="00:11:27:18"><span tts:direction="rtl">بعثت لي "لولا" بمعلومات دقيقة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:27:20" end="00:11:31:12"><span tts:direction="rtl">هناك نافذة صغيرة لا يمكن للبحرية</span><br/><span tts:direction="rtl">الإنكليزية أن توقفني فيها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:32:14" end="00:11:34:20"><span tts:direction="rtl">لكن، أعرف أنك تواجهين</span><br/><span tts:direction="rtl">أزماتك الخاصة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:34:22" end="00:11:36:11"><span tts:direction="rtl">أسيطر على الوضع.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:39:03" end="00:11:41:11"><span tts:direction="rtl">لا داعي لأن تشعري بالذنب</span><br/><span tts:direction="rtl">حيال رحيلك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:41:13" end="00:11:43:04"><span tts:direction="rtl">دفنت الجثث ورشوت الشهود.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:43:06" end="00:11:46:13"><span tts:direction="rtl">الجنود الذين خدموا الجنرالات</span><br/><span tts:direction="rtl">سيصلون قريباً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:46:15" end="00:11:50:08"><span tts:direction="rtl">وحين يصلون سأسرح ببساطة</span><br/><span tts:direction="rtl">أن قادتهم لم يأتوا قط.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:50:10" end="00:11:53:16"><span tts:direction="rtl">سأدفع لهم الذهب</span><br/><span tts:direction="rtl">و"فرنسا" ستحظى بجيش وفي</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:53:18" end="00:11:56:20"><span tts:direction="rtl">ليدافع عنا ضد الفرسان المزعومين.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:11:56:22" end="00:12:00:21"><span tts:direction="rtl">يبدو أنك فكرت في كل شيء.</span><br/><span tts:direction="rtl">لكنني أعرف أنك...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:12:09:16" end="00:12:11:17"><span tts:direction="rtl">يا للهول! الجنرالات.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:12:13:20" end="00:12:15:21"><span tts:direction="rtl">أيها الحراس! أيها الحراس!</span><br/><span tts:direction="rtl">أنزلوهم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:12:15:23" end="00:12:17:10"><span tts:direction="rtl">أزيلوهم على الفور.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:12:27:01" end="00:12:27:21"><span tts:direction="rtl">"كاثرين".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:12:30:17" end="00:12:31:15"><span tts:direction="rtl">لقد فات الأوان.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:12:37:01" end="00:12:39:20"><span tts:direction="rtl">لقد قتلوا إخوتنا، جنرالاتنا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:12:39:22" end="00:12:42:06"><span tts:direction="rtl">- فليهلك آل "فالوا".</span><br/><span tts:direction="rtl">- قتلة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:12:42:08" end="00:12:44:11"><span tts:direction="rtl">سيخبرون كل جندي في "فرنسا"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:12:44:13" end="00:12:46:07"><span tts:direction="rtl">أنني المسؤولة عن هذا الفعل المشين.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:12:50:21" end="00:12:52:14"><span tts:direction="rtl">وإن احتشدوا معاً سيدمرونك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:12:58:18" end="00:13:02:12"><span tts:direction="rtl">قلت إنك دفنت الجثث</span><br/><span tts:direction="rtl">لكن رؤوسهم انتهت على أوتاد.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:02:14" end="00:13:04:19"><span tts:direction="rtl">- كيف حدث ذلك؟</span><br/><span tts:direction="rtl">- "الفرسان الحمر" قد لحقوا بنا</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:04:21" end="00:13:06:16"><span tts:direction="rtl">في الليلة التي غادرنا بها القلعة</span><br/><span tts:direction="rtl">ونبشوهم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:06:18" end="00:13:10:01"><span tts:direction="rtl">يعتقد الجيش الفرنسي</span><br/><span tts:direction="rtl">بأنني قتلت أفراداً منه.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:10:03" end="00:13:11:23"><span tts:direction="rtl">هكذا تبدأ الثورات.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:12:01" end="00:13:15:14"><span tts:direction="rtl">ينقلب جيش محروم من حقوقه</span><br/><span tts:direction="rtl">على حكامه.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:15:16" end="00:13:18:14"><span tts:direction="rtl">إن قلت الحقيقة</span><br/><span tts:direction="rtl">قد يصغي الجنود إلى المنطق.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:18:16" end="00:13:21:05"><span tts:direction="rtl">ويمكنك أن تحاولي</span><br/><span tts:direction="rtl">إشباعهم بالذهب ولكن...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:21:07" end="00:13:24:02"><span tts:direction="rtl">إن أردت نصيحتي كوني السيد مستشار</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:24:04" end="00:13:26:23"><span tts:direction="rtl">أنت بحاجة إلى التعزيزات</span><br/><span tts:direction="rtl">للدفاع عن القلعة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:27:01" end="00:13:29:19"><span tts:direction="rtl">"وماري" تملك جيشاً من المرتزقة</span><br/><span tts:direction="rtl">على مسافة قريبة من هنا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:29:21" end="00:13:32:19"><span tts:direction="rtl">تعرف أن "ماري" تبحر</span><br/><span tts:direction="rtl">إلى أمة بروتستانتية عدوة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:32:21" end="00:13:34:10"><span tts:direction="rtl">يجب أن تغادر في الحال.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:34:12" end="00:13:36:11"><span tts:direction="rtl">تحتاج إلى المرتزقة</span><br/><span tts:direction="rtl">من أجل حمايتها الخاصة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:36:13" end="00:13:37:15"><span tts:direction="rtl">إن تفاقم الوضع</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:37:17" end="00:13:40:05"><span tts:direction="rtl">من الأفضل أن تعاني</span><br/><span tts:direction="rtl">"ماري" الخسائر أكثر منك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:42:01" end="00:13:43:08"><span tts:direction="rtl">أنت تكرهها فعلًا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:43:10" end="00:13:46:13"><span tts:direction="rtl">أرسلت ابني إلى حتفه.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:46:15" end="00:13:49:09"><span tts:direction="rtl">لعله لم يكن الابن الذي أفتخر به</span><br/><span tts:direction="rtl">لكنه كان ابني على أي حال.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:49:11" end="00:13:51:11"><span tts:direction="rtl">حين راودت "لولا" الشكوك</span><br/><span tts:direction="rtl">حول التزامي نحوها</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:51:13" end="00:13:53:14"><span tts:direction="rtl">كانت "ماري" من غذت خلافنا</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:53:16" end="00:13:55:11"><span tts:direction="rtl">وأبعدتها إلى الجهة</span><br/><span tts:direction="rtl">المقابلة من "القنال"، إلى "إنكلترا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:13:55:13" end="00:13:58:08"><span tts:direction="rtl">لذا، لا. لا أبالي لأمرها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:01:20" end="00:14:05:07"><span tts:direction="rtl">"كاثرين" أنت تخوضين حرباً</span><br/><span tts:direction="rtl">خاصة بك الآن</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:05:09" end="00:14:08:05"><span tts:direction="rtl">ولا يمكنك تحمل حماية "ماري" أكثر.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:16:01" end="00:14:20:00"><span tts:direction="rtl">الملكة "ماري"، فيما تنوين الإسراع</span><br/><span tts:direction="rtl">إلى "إسكتلندا"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:20:02" end="00:14:22:10"><span tts:direction="rtl">أشعر بالفضول حيال</span><br/><span tts:direction="rtl">ما ستفعلينه بشأن "لولا"؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:22:12" end="00:14:25:01"><span tts:direction="rtl">- ماذا تعني؟</span><br/><span tts:direction="rtl">- لا تزال في "إنكلترا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:25:03" end="00:14:26:10"><span tts:direction="rtl">وحين حملتك العسكرية</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:26:12" end="00:14:28:05"><span tts:direction="rtl">لاستعادة عرشك الإسكتلندي</span><br/><span tts:direction="rtl">تصبح علنية</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:28:07" end="00:14:30:15"><span tts:direction="rtl">لا أتصور أن رد "إليزابيث"</span><br/><span tts:direction="rtl">سيكون جيداً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:30:17" end="00:14:34:00"><span tts:direction="rtl">هل تلعب فعلًا دور الزوج القلق؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:34:02" end="00:14:36:00"><span tts:direction="rtl">أنت خصم "إليزابيث".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:36:02" end="00:14:37:16"><span tts:direction="rtl">ما إن تحكمي على حدود "إنكلترا"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:37:18" end="00:14:40:10"><span tts:direction="rtl">تتضاعف قيمة "لولا" كأسيرة</span><br/><span tts:direction="rtl">عشر مرات.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:40:12" end="00:14:43:17"><span tts:direction="rtl">"إليزابيث" ستبقي زوجتي</span><br/><span tts:direction="rtl">أسيرة للأبد.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:43:19" end="00:14:47:03"><span tts:direction="rtl">لكنني لا أظن أن هذا الأمر</span><br/><span tts:direction="rtl">خطر ببالك، لا؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:47:05" end="00:14:48:10"><span tts:direction="rtl">في الواقع، بلى.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:48:12" end="00:14:50:22"><span tts:direction="rtl">وفيما كنت تطارد السلطة</span><br/><span tts:direction="rtl">هنا في "فرنسا"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:51:00" end="00:14:54:15"><span tts:direction="rtl">بدأت بإعداد خطة</span><br/><span tts:direction="rtl">لإعادة "لولا" إلى الديار</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:54:17" end="00:14:56:15"><span tts:direction="rtl">قبل أن أصل إلى "إسكتلندا"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:56:17" end="00:14:59:03"><span tts:direction="rtl">وما الذي فعلته أنت بالتحديد</span><br/><span tts:direction="rtl">سيدي المستشار؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:14:59:05" end="00:15:02:07"><span tts:direction="rtl">- "لولا" لا تريد أي علاقة بي.</span><br/><span tts:direction="rtl">- هكذا إذاً؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:15:02:09" end="00:15:06:02"><span tts:direction="rtl">تخليت للتو عن المرأة التي تعهدت</span><br/><span tts:direction="rtl">بأن تمضي بقية حياتك معها؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:15:06:04" end="00:15:07:05"><span tts:direction="rtl">أحب زوجتي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:15:07:07" end="00:15:09:07"><span tts:direction="rtl">لا، أنت تحب السلطة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:15:09:09" end="00:15:13:09"><span tts:direction="rtl">أثبت مرة جديدة أن أكثر ما ترغب به</span><br/><span tts:direction="rtl">هو السلطة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:15:14:22" end="00:15:16:16"><span tts:direction="rtl">ولهذا السبب خسرتها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:15:16:18" end="00:15:19:22"><span tts:direction="rtl">تريدين أن تحكمي على خياراتي</span><br/><span tts:direction="rtl">أليس كذلك؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:15:20:00" end="00:15:25:21"><span tts:direction="rtl">فيما تسرعين لاستعادة عرشك</span><br/><span tts:direction="rtl">أنت تتخلين عن مساعدة "كاثرين".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:15:27:09" end="00:15:30:15"><span tts:direction="rtl">أعرف كم تعنيه لك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:15:37:15" end="00:15:39:08"><span tts:direction="rtl">السفير "بلاكبيرن".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:15:39:10" end="00:15:41:06"><span tts:direction="rtl">لايدي "لولا"، تتذكرينني.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:15:41:08" end="00:15:44:17"><span tts:direction="rtl">نعم، أطلت دعوة "إليزابيث" لي</span><br/><span tts:direction="rtl">لزيارة "إنكلترا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:15:44:19" end="00:15:46:09"><span tts:direction="rtl">أزورها منذ مدة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:15:48:23" end="00:15:50:19"><span tts:direction="rtl">كنت آمل أن نتمكن</span><br/><span tts:direction="rtl">من التحدث على انفراد.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:15:53:18" end="00:15:55:10"><span tts:direction="rtl">هلا تأخذين "جون" إلى الإسطبلات؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:15:57:07" end="00:15:58:11"><span tts:direction="rtl">يحب أن يرى الجياد.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:04:16" end="00:16:06:15"><span tts:direction="rtl">أيتعلق الأمر بـ"ماري"؟</span><br/><span tts:direction="rtl">هل هي بخير؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:06:17" end="00:16:09:04"><span tts:direction="rtl">إنها بخير</span><br/><span tts:direction="rtl">ولكن هذا يتعلق بك في الحقيقة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:09:06" end="00:16:12:01"><span tts:direction="rtl">قطعت وعداً على "ماري"</span><br/><span tts:direction="rtl">أنني حين أعود إلى "إنكلترا"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:12:03" end="00:16:13:08"><span tts:direction="rtl">سأساعد في تحريرك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:14:17" end="00:16:16:16"><span tts:direction="rtl">بالطبع، سيستغرق هذا وقتاً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:17:20" end="00:16:19:14"><span tts:direction="rtl">وهذا كان طلب "ماري"؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:19:16" end="00:16:22:16"><span tts:direction="rtl">لديك كامل الحق لتكون حذراً</span><br/><span tts:direction="rtl">كوني أعمل لصالح "إليزابيث".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:22:18" end="00:16:23:16"><span tts:direction="rtl">لكن فلتعلمي</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:23:18" end="00:16:26:11"><span tts:direction="rtl">ساعدتني "ماري" كثيراً</span><br/><span tts:direction="rtl">حين كنت في البلاط الفرنسي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:27:22" end="00:16:30:23"><span tts:direction="rtl">"إليزابيث" احتجزت ابنتي "آغاثا"</span><br/><span tts:direction="rtl">كورقة ضغط.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:31:01" end="00:16:33:03"><span tts:direction="rtl">ساعدتني "ماري" لأستعيدها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:33:05" end="00:16:35:21"><span tts:direction="rtl">وحين هددت الكنيسة الكاثوليكية</span><br/><span tts:direction="rtl">بإرسالي إلى المشنقة</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:35:23" end="00:16:38:07"><span tts:direction="rtl">ساهمت صديقتك والملكة</span><br/><span tts:direction="rtl">في إنقاذ حياتي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:40:11" end="00:16:42:11"><span tts:direction="rtl">أدين لها بكل شيء.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:42:13" end="00:16:44:16"><span tts:direction="rtl">أنت تهتم لأمرها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:44:18" end="00:16:46:09"><span tts:direction="rtl">قتلت رجلًا من أجل حمايتها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:46:11" end="00:16:50:07"><span tts:direction="rtl">لذا صدقيني حين أقول إنني</span><br/><span tts:direction="rtl">إلى جانب "ماري" وجانبك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:16:51:19" end="00:16:53:20"><span tts:direction="rtl">لديك صديق هنا.</span><br/>    </p>
+      <p style="style.default" region="region.after.center" begin="00:16:57:23" end="00:16:58:19"><span tts:direction="rtl">جيد جداً.</span><br/> .</p>
+      <p style="style.default" region="region.after.center" begin="00:17:00:09" end="00:17:04:08"><span tts:direction="rtl">إن تمكنت من أن تجد لي ولابني</span><br/><span tts:direction="rtl">مخرجاً من هنا، فسنقبل به.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:07:09" end="00:17:10:05"><span tts:direction="rtl">قررت أن أبقى في "فرنسا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:10:07" end="00:17:12:11"><span tts:direction="rtl">- ماذا؟</span><br/><span tts:direction="rtl">- لمدة أطول على أي حال.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:12:13" end="00:17:16:11"><span tts:direction="rtl">قد تواجهين هجوماً من جيشك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:16:13" end="00:17:19:07"><span tts:direction="rtl">لذا، قررت أن أستخدم المرتزقة</span><br/><span tts:direction="rtl">لدي لأحميك</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:19:09" end="00:17:21:22"><span tts:direction="rtl">إلى أن يزول التهديد بالثورة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:23:01" end="00:17:24:22"><span tts:direction="rtl">سأجد طريقة أخرى</span><br/><span tts:direction="rtl">لأعود إلى "إسكتلندا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:26:16" end="00:17:29:01"><span tts:direction="rtl">- "كاثرين"، علينا التركيز...</span><br/><span tts:direction="rtl">- صيغة الجمع؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:29:03" end="00:17:31:09"><span tts:direction="rtl">سبق أن أخبرتك سابقاً</span><br/><span tts:direction="rtl">أنني أسيطر على الوضع.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:31:11" end="00:17:33:19"><span tts:direction="rtl">ستتعامل "فرنسا"</span><br/><span tts:direction="rtl">مع هذا التهديد وحدها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:33:21" end="00:17:37:12"><span tts:direction="rtl">"كاثرين"، تسقط العائلات الحاكمة</span><br/><span tts:direction="rtl">حين تنقلب جيوشها ضدهم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:37:14" end="00:17:40:05"><span tts:direction="rtl">إذاً، ستضحين بعرشك الإسكتلندي</span><br/><span tts:direction="rtl">من أجل "فرنسا"، صحيح؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:40:07" end="00:17:42:04"><span tts:direction="rtl">ألم تتعلمي شيئاً؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:42:06" end="00:17:45:14"><span tts:direction="rtl">سبق أن ضحت هذه البلاد كثيراً</span><br/><span tts:direction="rtl">نيابة عن "إسكتلندا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:45:16" end="00:17:47:13"><span tts:direction="rtl">يجب ألا ترتكبي الخطأ عينه الآن.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:49:00" end="00:17:52:10"><span tts:direction="rtl">كلانا يعرف أن الممر الآمن</span><br/><span tts:direction="rtl">إلى "إسكتلندا" قد لا يتكرر.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:52:12" end="00:17:55:02"><span tts:direction="rtl">وأنت بحاجة إلى مرتزقتك</span><br/><span tts:direction="rtl">ليحموك من البروتستانت.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:55:04" end="00:17:58:09"><span tts:direction="rtl">رجال يضعفون عرشك</span><br/><span tts:direction="rtl">في هذه الأثناء.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:17:58:11" end="00:18:00:07"><span tts:direction="rtl">- لكنك بحاجة إلى المساعدة.</span><br/><span tts:direction="rtl">- أريدك أن ترحلي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:18:01:06" end="00:18:03:21"><span tts:direction="rtl">كلما حاولنا أن نساعد بعضنا البعض</span><br/><span tts:direction="rtl">ألحقنا أذى أكبر.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:18:03:23" end="00:18:05:17"><span tts:direction="rtl">لا بد من أنك تدركين هذا اليوم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:18:07:14" end="00:18:12:05"><span tts:direction="rtl">حان الوقت لأن نمضي قدماً</span><br/><span tts:direction="rtl">كملكتين في دولتين مختلفتين.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:18:16:15" end="00:18:20:04"><span tts:direction="rtl">أنت محقة. لا يمكنني المجازفة</span><br/><span tts:direction="rtl">بمستقبلي من أجلك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:18:22:11" end="00:18:23:20"><span tts:direction="rtl">ولكن بعد كل ما مررنا به...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:18:25:05" end="00:18:27:15"><span tts:direction="rtl">هل تريدين توديعي بهذه الطريقة؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:18:29:20" end="00:18:30:23"><span tts:direction="rtl">وجودك هنا</span></p>
+      <p style="style.default" region="region.after.center" begin="00:18:31:01" end="00:18:33:21"><span tts:direction="rtl">أبقى جزءاً من "فرانسيس" حياً</span><br/><span tts:direction="rtl">من أجلي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:18:35:22" end="00:18:37:14"><span tts:direction="rtl">توديعك...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:18:41:04" end="00:18:43:20"><span tts:direction="rtl">أشبه باضطراري لتوديعه</span><br/><span tts:direction="rtl">مرة ثانية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:18:44:21" end="00:18:47:04"><span tts:direction="rtl">يجب أن تذهبي لتستعيدي عرشك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:18:47:06" end="00:18:50:01"><span tts:direction="rtl">قدرك يكمن في "إسكتلندا"</span><br/><span tts:direction="rtl">لطالما كان كذلك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:18:50:03" end="00:18:53:07"><span tts:direction="rtl">ولن أقف في طريقه.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:18:55:23" end="00:18:57:20"><span tts:direction="rtl">عودي واستعيدي بلادك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:18:59:16" end="00:19:03:07"><span tts:direction="rtl">ماذا ستفعلين إن جاء الجنود</span><br/><span tts:direction="rtl">من أجلك؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:19:03:09" end="00:19:06:14"><span tts:direction="rtl">سأجد طريقة. أفعل ذلك غالباً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:19:12:06" end="00:19:14:05"><span tts:direction="rtl">أخبريني حين تصلين إلى "إدنبره".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:19:14:07" end="00:19:15:10"><span tts:direction="rtl">سأفعل ذلك مولاي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:19:18:19" end="00:19:21:02"><span tts:direction="rtl">أرى أنك لم تتمكني</span><br/><span tts:direction="rtl">من إقناع "كاثرين" بقبول مساعدتك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:19:21:04" end="00:19:25:12"><span tts:direction="rtl">لا. عنيدة حتى النهاية.</span><br/><span tts:direction="rtl">هلا تعتني بها؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:19:27:19" end="00:19:32:01"><span tts:direction="rtl">أتذكر حين أتيت إلى هنا</span><br/><span tts:direction="rtl">عند خروجي من العربة</span></p>
+      <p style="style.default" region="region.after.center" begin="00:19:32:03" end="00:19:34:00"><span tts:direction="rtl">كان الجميع مصطفاً لاستقبالي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:19:34:02" end="00:19:35:18"><span tts:direction="rtl">كنت متوترة جداً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:19:35:20" end="00:19:40:05"><span tts:direction="rtl">لكن على الأقل كانت صديقاتي معي</span><br/><span tts:direction="rtl">"كينا" و"آيلي" و"غرير" و"لولا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:19:40:07" end="00:19:42:11"><span tts:direction="rtl">ومن ثم رأيتك و"فرانسيس"...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:19:44:20" end="00:19:48:09"><span tts:direction="rtl">وعرفت بطريقة ما</span><br/><span tts:direction="rtl">أن الأمور ستكون بخير.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:19:51:07" end="00:19:52:07"><span tts:direction="rtl">والآن، أغادر وحدي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:19:53:05" end="00:19:56:01"><span tts:direction="rtl">ليس هذا ما تصورته.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:19:57:19" end="00:19:58:23"><span tts:direction="rtl">لدي شيء من أجلك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:20:00:23" end="00:20:03:05"><span tts:direction="rtl">قبل أن يموت، طلب مني</span><br/><span tts:direction="rtl">"فرانسيس" أن أعطيك هذه</span></p>
+      <p style="style.default" region="region.after.center" begin="00:20:03:07" end="00:20:04:14"><span tts:direction="rtl">في اليوم الذي ترحلين فيه</span><br/><span tts:direction="rtl">إلى "إسكتلندا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:20:06:14" end="00:20:07:10"><span tts:direction="rtl">شكراً يا "باش".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:20:09:22" end="00:20:12:23"><span tts:direction="rtl">لست مستعدة لأفتحها بعد.</span><br/><span tts:direction="rtl">أرجوك ضعها في العربة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:20:15:01" end="00:20:16:17"><span tts:direction="rtl">لقد كنت صديقاً جيداً لي، "باش".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:20:18:09" end="00:20:20:06"><span tts:direction="rtl">أكثر من صديق، عائلتي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:20:21:22" end="00:20:22:18"><span tts:direction="rtl">وداعاً "ماري".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:20:25:13" end="00:20:26:22"><span tts:direction="rtl">سأشتاق إليك يا "باش".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:01:07" end="00:21:03:02"><span tts:direction="rtl">الملكة "إليزابيث"، هل أرسلت بطلبي؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:03:04" end="00:21:07:00"><span tts:direction="rtl">استلمت هذه الرسالة</span><br/><span tts:direction="rtl">من "جون نوكس".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:07:02" end="00:21:10:22"><span tts:direction="rtl">هو ولورداته البروتستانت في "إسكتلندا"</span><br/><span tts:direction="rtl">يحاولون إضعاف عرش "ماري"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:11:00" end="00:21:12:18"><span tts:direction="rtl">ويطلب مني كوني بروتستانتية مثله</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:12:20" end="00:21:15:21"><span tts:direction="rtl">أن أدعمه حين يقاوم</span><br/><span tts:direction="rtl">أتباع "ماري" الكاثوليك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:15:23" end="00:21:18:09"><span tts:direction="rtl">"إليزابيث"، لا يمكنك الوقوف</span><br/><span tts:direction="rtl">إلى جانبه</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:18:11" end="00:21:20:20"><span tts:direction="rtl">مهما كنت تريدين إضعاف منافستك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:20:22" end="00:21:22:20"><span tts:direction="rtl">كراهيته للنساء الحاكمات</span><br/><span tts:direction="rtl">منقطعة النظير</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:24:15" end="00:21:26:08"><span tts:direction="rtl">لكنك تعرفين ذلك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:26:10" end="00:21:30:08"><span tts:direction="rtl">وتعرفين أنني ما كنت لأنصحك</span><br/><span tts:direction="rtl">بفعل شيء ضد "ماري".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:30:10" end="00:21:32:19"><span tts:direction="rtl">لذا، لماذا تخبرينني بهذا؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:32:21" end="00:21:34:08"><span tts:direction="rtl">أحتاج إلى مشورة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:34:10" end="00:21:35:14"><span tts:direction="rtl">مني؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:37:02" end="00:21:41:14"><span tts:direction="rtl">نعم. لا أحب "جون نوكس"</span><br/><span tts:direction="rtl">وأريد أن أرفض طلبه</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:41:16" end="00:21:44:11"><span tts:direction="rtl">كما اقترحت بشغف.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:44:13" end="00:21:46:01"><span tts:direction="rtl">ولكنه سيشكل عدواً غير مستحب</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:46:03" end="00:21:49:01"><span tts:direction="rtl">ولا أريد أن أسأل الرجال الآخرين</span><br/><span tts:direction="rtl">في مجلسي للمشورة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:49:03" end="00:21:53:23"><span tts:direction="rtl">لذا، أسألك أنت كامرأة وكاسكتلندية</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:54:01" end="00:21:57:00"><span tts:direction="rtl">كيف أرفض طلبه</span><br/><span tts:direction="rtl">من دون أن أجعله عدوي</span></p>
+      <p style="style.default" region="region.after.center" begin="00:21:57:02" end="00:22:00:00"><span tts:direction="rtl">وأبعد مناصري البروتستانت</span><br/><span tts:direction="rtl">في "إسكتلندا"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:00:02" end="00:22:02:17"><span tts:direction="rtl">حلفائي الذين يسيطر عليهم أصلًا؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:02:20" end="00:22:07:20"><span tts:direction="rtl">ربما من الأفضل رفض طلبه فوراً</span><br/><span tts:direction="rtl">بقوة ومباشرة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:07:22" end="00:22:09:13"><span tts:direction="rtl">أو ببساطة لا تجيبين.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:09:15" end="00:22:12:09"><span tts:direction="rtl">إن رفضت طلب "جون نوكس"</span><br/><span tts:direction="rtl">كما اقترحت</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:12:11" end="00:22:15:06"><span tts:direction="rtl">هذا يخبره بأنك حاكمة حازمة ومبجلة</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:15:08" end="00:22:16:11"><span tts:direction="rtl">لا تخضع للإرهاب.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:16:13" end="00:22:19:06"><span tts:direction="rtl">- هذا أنا حقيقة.</span><br/><span tts:direction="rtl">- وهذا ما يكرهه فعلًا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:19:08" end="00:22:22:21"><span tts:direction="rtl">لذا ماطلي. تجنبي قراراً</span><br/><span tts:direction="rtl">يمكنه التنديد به.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:22:23" end="00:22:25:18"><span tts:direction="rtl">دعيه يعتقد أنك عير حاسمة</span><br/><span tts:direction="rtl">وغير مؤذية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:25:20" end="00:22:27:06"><span tts:direction="rtl">- أنثوي.</span><br/><span tts:direction="rtl">- أخبريه أنك ستتشاورين</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:27:08" end="00:22:29:15"><span tts:direction="rtl">مع مستشاريك، ستبحثين في قلبك</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:29:17" end="00:22:31:14"><span tts:direction="rtl">وتقرأين التعاليم، سيحب هذا الأمر.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:34:14" end="00:22:38:20"><span tts:direction="rtl">لايدي "لولا"، أنا مبهورة فعلًا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:40:01" end="00:22:42:03"><span tts:direction="rtl">سآخذ بنصيحتك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:45:20" end="00:22:48:12"><span tts:direction="rtl">سمعت أن "إليزابيث" أرسلت بطلبك.</span><br/><span tts:direction="rtl">هل كل شيء بخير؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:48:14" end="00:22:51:11"><span tts:direction="rtl">طلبت "إليزابيث" مشورتي</span><br/><span tts:direction="rtl">وستقبل بها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:51:13" end="00:22:54:19"><span tts:direction="rtl">إنها تصغي إلي يا "غيديون".</span><br/><span tts:direction="rtl">بدأت تثق بي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:54:21" end="00:22:55:20"><span tts:direction="rtl">إليزابيث" من آل "تيودر".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:55:22" end="00:22:58:21"><span tts:direction="rtl">وهي مثل أبيها، لديها عادة</span><br/><span tts:direction="rtl">في الانقلاب على الذين تثق بهم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:22:58:23" end="00:23:00:21"><span tts:direction="rtl">كلما اقتربت منها، زادت خطورتها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:00:23" end="00:23:03:23"><span tts:direction="rtl">ومع ذلك، فكر في ما قد توفره</span><br/><span tts:direction="rtl">علاقتي بها لـ"ماري".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:04:01" end="00:23:06:09"><span tts:direction="rtl">قولي لي إنك لم تعدلي</span><br/><span tts:direction="rtl">عن فكرة رحيلك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:06:11" end="00:23:07:07"><span tts:direction="rtl">قطعاً لا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:07:09" end="00:23:09:18"><span tts:direction="rtl">حين تتمكن من إخراجي من هنا</span><br/><span tts:direction="rtl">سأهرب.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:09:20" end="00:23:12:18"><span tts:direction="rtl">لكن طالما أنني هنا</span><br/><span tts:direction="rtl">سأساعد "ماري".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:12:20" end="00:23:15:23"><span tts:direction="rtl">هل تدرك أنها قد تكون في طريقها</span><br/><span tts:direction="rtl">إلى "إسكتلندا" في هذه الأثناء؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:16:01" end="00:23:17:19"><span tts:direction="rtl">بفضل معلومات</span><br/><span tts:direction="rtl">تمكنت من الحصول عليها؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:17:21" end="00:23:19:09"><span tts:direction="rtl">أي نوع من المعلومات؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:19:11" end="00:23:22:19"><span tts:direction="rtl">سمعت أن "بحر الشمال"</span><br/><span tts:direction="rtl">لا يخضع للدوريات الآن.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:22:21" end="00:23:25:11"><span tts:direction="rtl">هذا يجعل وضعك ملحاً أكثر.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:25:13" end="00:23:28:04"><span tts:direction="rtl">إن كانت "ماري" متجهة إلى</span><br/><span tts:direction="rtl">"إسكتلندا"، سيكون هناك جيش برفقتها</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:28:06" end="00:23:29:09"><span tts:direction="rtl">تقدمة من "الفاتيكان".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:29:11" end="00:23:31:02"><span tts:direction="rtl">نعم، افترضت هذا الأمر.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:31:04" end="00:23:32:16"><span tts:direction="rtl">ستشعر "إليزابيث" بالتهديد.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:32:18" end="00:23:35:13"><span tts:direction="rtl">وحين تحط "ماري" على الأرض</span><br/><span tts:direction="rtl">الإسكتلندية مع قوات مسلحة</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:35:15" end="00:23:38:05"><span tts:direction="rtl">ستصبحين أسيرة أكثر قيمة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:38:07" end="00:23:41:07"><span tts:direction="rtl">قد تقرر "إليزابيث"</span><br/><span tts:direction="rtl">أن تبقيك وابنك هنا نهائياً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:41:09" end="00:23:43:05"><span tts:direction="rtl">لا نملك متسعاً من الوقت</span><br/><span tts:direction="rtl">كما أملت.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:43:07" end="00:23:45:01"><span tts:direction="rtl">علينا العمل بشكل أسرع</span><br/><span tts:direction="rtl">على هربي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:45:03" end="00:23:47:17"><span tts:direction="rtl">افعل ما ينبغي لك فعله</span><br/><span tts:direction="rtl">وارش من عليك رشوته.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:53:06" end="00:23:55:23"><span tts:direction="rtl">سأنقلك إلى غرفتك الجديدة</span><br/><span tts:direction="rtl">ما إن تجهز.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:23:56:01" end="00:24:00:00"><span tts:direction="rtl">ستجدين أنني لم أبخل.</span><br/><span tts:direction="rtl">عرافتي الملكية تستحق الأفضل.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:24:00:02" end="00:24:02:09"><span tts:direction="rtl">كنت لطيفاً معي حضرة الجلالة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:24:02:11" end="00:24:04:17"><span tts:direction="rtl">كلنا نتذكر ما فعلته لـ"فرانسيس".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:24:04:19" end="00:24:08:09"><span tts:direction="rtl">تلك الأيام الإضافية التي</span><br/><span tts:direction="rtl">أمضيناها معه، عنت الكثير لعائلتي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:24:08:11" end="00:24:10:19"><span tts:direction="rtl">تسرني خدمة آل "فالوا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:24:10:21" end="00:24:15:00"><span tts:direction="rtl">وسأفعل المستحيل لأكشف</span><br/><span tts:direction="rtl">"الفرسان الحمر" المختبئين بينكم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:24:30:14" end="00:24:31:12"><span tts:direction="rtl">مولاي!</span></p>
+      <p style="style.default" region="region.after.center" begin="00:24:34:03" end="00:24:37:11"><span tts:direction="rtl">- اعذرني.</span><br/><span tts:direction="rtl">- يجب أن تكوني أكثر حذراً آنستي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:24:41:00" end="00:24:42:04"><span tts:direction="rtl">هذا أنت!</span></p>
+      <p style="style.default" region="region.after.center" begin="00:25:02:10" end="00:25:04:02"><span tts:direction="rtl">ما كان يجدر بي إحضارها إلى هنا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:25:05:09" end="00:25:06:21"><span tts:direction="rtl">أنا الملام.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:25:24:10" end="00:25:27:00"><span tts:direction="rtl">"الموت لجميع أصدقاء آل (فالوا)".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:25:27:02" end="00:25:29:11"><span tts:direction="rtl">- "تشارلز"، لا يفترض بك أن تكون هنا.</span><br/><span tts:direction="rtl">- كانوا "الفرسان الحمر".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:25:29:13" end="00:25:31:21"><span tts:direction="rtl">قتلوا "ديلفين"</span><br/><span tts:direction="rtl">قبل أن تتمكن من فضح أمرهم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:25:31:23" end="00:25:34:04"><span tts:direction="rtl">أرجوكم خذوا الملك إلى غرفته</span><br/><span tts:direction="rtl">واحرسوه جيداً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:25:34:06" end="00:25:36:07"><span tts:direction="rtl">- هل كان هناك شهود؟</span><br/><span tts:direction="rtl">- لا سيدي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:25:36:09" end="00:25:38:15"><span tts:direction="rtl">"كريستوف" وجد جثتها وبلغنا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:25:52:11" end="00:25:54:07"><span tts:direction="rtl">"كاثرين"؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:25:54:09" end="00:25:57:18"><span tts:direction="rtl">حدثت أمور رهيبة كثيرة اليوم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:25:57:20" end="00:26:00:21"><span tts:direction="rtl">أنا جد آسفة يا "سيباستيان".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:00:23" end="00:26:03:09"><span tts:direction="rtl">أعرف كم كانت "ديلفين"</span><br/><span tts:direction="rtl">عزيزة عليك. لم تستحق هذا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:03:11" end="00:26:05:21"><span tts:direction="rtl">"كاثرين". عنقك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:07:11" end="00:26:09:16"><span tts:direction="rtl">- ماذا جرى؟ من فعل هذا بك؟</span><br/><span tts:direction="rtl">- أنا بخير؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:09:18" end="00:26:12:07"><span tts:direction="rtl">هل تعرضت لهجوم؟</span><br/><span tts:direction="rtl">هذه الكدمات عمرها أقل من يوم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:12:09" end="00:26:13:18"><span tts:direction="rtl">انس الأمر، "سيباستيان".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:13:20" end="00:26:16:12"><span tts:direction="rtl">لماذا؟ هل تحمين شخصاً ما؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:18:03" end="00:26:20:14"><span tts:direction="rtl">أنت على علاقة بـ"كريستوف" ثانية.</span><br/><span tts:direction="rtl">هل فعل هذا بك؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:20:16" end="00:26:23:04"><span tts:direction="rtl">كان أمراً رضائياً. لا يحاول قتلي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:23:06" end="00:26:24:11"><span tts:direction="rtl">فقط...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:24:13" end="00:26:27:17"><span tts:direction="rtl">يحكم قبضته حول عنقي</span><br/><span tts:direction="rtl">فهذا يضاعف الإحساس.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:27:19" end="00:26:31:05"><span tts:direction="rtl">لن يؤذي ملكة تضمن مكانته.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:31:08" end="00:26:34:09"><span tts:direction="rtl">- يحتاج إلي. أنا بخير. أنا بخير.</span><br/><span tts:direction="rtl">- الملكة الوصية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:34:11" end="00:26:37:05"><span tts:direction="rtl">أحد الملازمين الذين خدموا</span><br/><span tts:direction="rtl">مع الجنرال "غايغان" هنا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:37:07" end="00:26:39:06"><span tts:direction="rtl">يريد أن يكلمك في الحال.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:41:23" end="00:26:42:21"><span tts:direction="rtl">المعذرة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:55:16" end="00:26:58:05"><span tts:direction="rtl">حضرة الملازم "غابون"</span><br/><span tts:direction="rtl">تؤسفني كثيراً خسارتك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:26:58:07" end="00:27:01:01"><span tts:direction="rtl">أريد أن أؤكد لك أن آل "فالوا"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:01:03" end="00:27:03:11"><span tts:direction="rtl">لم يكونوا خلف جريمة قتل</span><br/><span tts:direction="rtl">الجنرال "غايغان"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:03:13" end="00:27:05:06"><span tts:direction="rtl">أو الجنرالات الآخرين</span><br/><span tts:direction="rtl">الذين قُتلوا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:05:08" end="00:27:08:04"><span tts:direction="rtl">نود أن نشكرك على قدومك</span><br/><span tts:direction="rtl">إلى هنا للتكلم معنا</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:08:06" end="00:27:09:13"><span tts:direction="rtl">في ظل هذه المأساة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:09:15" end="00:27:11:18"><span tts:direction="rtl">جئنا لنأخذ جثث جنرالاتنا</span><br/><span tts:direction="rtl">الذين سقطوا</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:11:20" end="00:27:15:05"><span tts:direction="rtl">وحتى نطالبكما بالخضوع</span><br/><span tts:direction="rtl">إلى محاكمة عسكرية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:15:07" end="00:27:16:14"><span tts:direction="rtl">أستميحك عذراً؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:16:16" end="00:27:19:14"><span tts:direction="rtl">قتلتما قادتنا كي تتجنبا</span><br/><span tts:direction="rtl">تسديد الدين مقابل خدماتنا المسلحة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:19:16" end="00:27:21:10"><span tts:direction="rtl">لم تفعل أمي مثل هذا الأمر.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:21:12" end="00:27:23:23"><span tts:direction="rtl">هناك مؤامرة. تم تلفيق التهمة لها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:24:01" end="00:27:27:12"><span tts:direction="rtl">حضرة الملازم، هناك قوى شريرة</span><br/><span tts:direction="rtl">تعمل ضدي</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:27:14" end="00:27:29:17"><span tts:direction="rtl">ولهذا السبب</span><br/><span tts:direction="rtl">استدعيت الجنرالات إلى هنا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:29:19" end="00:27:31:19"><span tts:direction="rtl">ستحظيان بفرصتكما للشرح.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:31:21" end="00:27:34:10"><span tts:direction="rtl">سأعود بعد ساعة مع بقية الرجال.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:34:12" end="00:27:37:04"><span tts:direction="rtl">أكثر من مئة رجل مسلح</span><br/><span tts:direction="rtl">سيحتشدون خارج بواباكما.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:37:07" end="00:27:40:06"><span tts:direction="rtl">أملك الذهب، يمكنني أن أدفع لكما</span><br/><span tts:direction="rtl">ما تستحقونه.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:40:08" end="00:27:43:09"><span tts:direction="rtl">لم يعد الأمر يتعلق بالذهب.</span><br/><span tts:direction="rtl">نريد العدالة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:43:11" end="00:27:46:18"><span tts:direction="rtl">تتحدث عن العدالة</span><br/><span tts:direction="rtl">فيما أنت تهدد نظام الوصاية؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:46:20" end="00:27:49:12"><span tts:direction="rtl">مع فائق احترامي، مولاي</span><br/><span tts:direction="rtl">الملكة هي البادئة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:49:14" end="00:27:50:16"><span tts:direction="rtl">إن لم تستسلم</span></p>
+      <p style="style.default" region="region.after.center" begin="00:27:50:18" end="00:27:54:07"><span tts:direction="rtl">سنهاجم وستحترق هذه القلعة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:28:09:05" end="00:28:11:06"><span tts:direction="rtl">كدنا أن ننتهي من تحميل العتاد.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:28:11:08" end="00:28:13:23"><span tts:direction="rtl">وفقاً للجدول الزمني الذي وضعته</span><br/><span tts:direction="rtl">من أجل عبور البحار</span></p>
+      <p style="style.default" region="region.after.center" begin="00:28:14:01" end="00:28:16:22"><span tts:direction="rtl">قبل عودة البحرية الإنكليزية</span><br/><span tts:direction="rtl">يجب أن نبحر في الحال.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:28:32:01" end="00:28:33:08"><span tts:direction="rtl">عزيزتي الغالية ماري".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:28:33:10" end="00:28:34:14"><span tts:direction="rtl">إن كنت تقرأين هذه</span></p>
+      <p style="style.default" region="region.after.center" begin="00:28:34:16" end="00:28:38:04"><span tts:direction="rtl">فإذاً أنت تغادرين "فرنسا"</span><br/><span tts:direction="rtl">من أجل استعادة عرشك الإسكتلندي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:28:38:06" end="00:28:39:19"><span tts:direction="rtl">لطالما عرفت أن هذا اليوم سيحل.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:28:39:21" end="00:28:44:11"><span tts:direction="rtl">ليتني كنت إلى جانبك</span><br/><span tts:direction="rtl">فيما تبحرين لتستعيدي ما هو حقك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:28:44:13" end="00:28:46:23"><span tts:direction="rtl">كنت ضميري في أحلك الأيام.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:28:47:01" end="00:28:51:18"><span tts:direction="rtl">وقلبك كان نوراً يا "ماري"</span><br/><span tts:direction="rtl">وقد سطع بقوة من أجل "فرنسا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:28:51:20" end="00:28:56:04"><span tts:direction="rtl">مهما ابتعدت</span><br/><span tts:direction="rtl">ذلك النور سيشع إلى الأبد.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:28:56:06" end="00:28:57:14"><span tts:direction="rtl">تركت لك هدية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:28:57:16" end="00:29:00:06"><span tts:direction="rtl">شيء صنعته لك</span><br/><span tts:direction="rtl">لتحاربي من أجل ما هو لك</span></p>
+      <p style="style.default" region="region.after.center" begin="00:29:00:08" end="00:29:04:23"><span tts:direction="rtl">ومن أجل ما تعرفين أنه صواب</span><br/><span tts:direction="rtl">في قرارة نفسك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:29:05:01" end="00:29:08:08"><span tts:direction="rtl">أحبك يا "ماري ستيوارت" إلى الأبد.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:29:31:00" end="00:29:34:00"><span tts:direction="rtl">حضرة النقيب. اجمع الرجال.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:29:34:02" end="00:29:37:02"><span tts:direction="rtl">سنعود إلى القلعة</span><br/><span tts:direction="rtl">ويجب أن نكون مستعدين للقتال.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:29:37:04" end="00:29:40:17"><span tts:direction="rtl">الملكة "ماري"، الوقت ثمين</span><br/><span tts:direction="rtl">وكذلك جنودك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:29:40:19" end="00:29:44:01"><span tts:direction="rtl">- لا يمكنك المجازفة بهم الآن.</span><br/><span tts:direction="rtl">- أعطيتك أمراً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:29:44:03" end="00:29:46:05"><span tts:direction="rtl">أخبر الرجال أننا سنعود.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:29:48:01" end="00:29:50:04"><span tts:direction="rtl">ثمة أمر وحيد بعد لأقوم به.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:30:10:04" end="00:30:12:01"><span tts:direction="rtl">"باش"، ماذا تفعل هنا؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:30:12:03" end="00:30:13:03"><span tts:direction="rtl">قبل أن تُقتل</span></p>
+      <p style="style.default" region="region.after.center" begin="00:30:13:05" end="00:30:15:13"><span tts:direction="rtl">حذرتني "ديلفين" من أن</span><br/><span tts:direction="rtl">قاتل القلوب قد لا يزال حياً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:30:15:15" end="00:30:18:12"><span tts:direction="rtl">شعرت بوجوده داخل هذه القلعة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:30:18:14" end="00:30:20:22"><span tts:direction="rtl">شعرت بيديه تحكمان الإطباق</span><br/><span tts:direction="rtl">على عنق امرأة</span></p>
+      <p style="style.default" region="region.after.center" begin="00:30:21:00" end="00:30:22:21"><span tts:direction="rtl">امرأة تحميه.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:30:22:23" end="00:30:25:22"><span tts:direction="rtl">رأيت الكدمات على عنق "كاثرين".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:30:26:00" end="00:30:28:07"><span tts:direction="rtl">"باش"، تؤسفني خسارتك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:30:32:23" end="00:30:34:09"><span tts:direction="rtl">كنت أنت منذ البداية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:30:34:11" end="00:30:37:15"><span tts:direction="rtl">- أنت كاذب وقاتل.</span><br/><span tts:direction="rtl">- أنت مجنون.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:30:37:17" end="00:30:41:04"><span tts:direction="rtl">- أنا حارس الملك.</span><br/><span tts:direction="rtl">- كنت كذلك، بفضل "كاثرين".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:30:41:06" end="00:30:44:23"><span tts:direction="rtl">كوني مساعد الملك</span><br/><span tts:direction="rtl">أنا أعفيك من واجباتك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:30:49:03" end="00:30:50:22"><span tts:direction="rtl">كانت "كاثرين" تحميك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:30:52:01" end="00:30:54:01"><span tts:direction="rtl">ما المقدار الذي عرفته؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:30:56:19" end="00:30:58:07"><span tts:direction="rtl">عرفت كل شيء.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:30:58:09" end="00:31:00:20"><span tts:direction="rtl">عرفت معلومات</span><br/><span tts:direction="rtl">تجعلني أضغط عليها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:00:22" end="00:31:03:22"><span tts:direction="rtl">كل شيء مدون في رسالة</span><br/><span tts:direction="rtl">جرائمي وجرائمها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:04:00" end="00:31:06:03"><span tts:direction="rtl">إن تركتني أعيس، فسأخبرك بمكانها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:06:05" end="00:31:08:03"><span tts:direction="rtl">إنها كافية لتجريدها من الوصاية؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:08:05" end="00:31:09:11"><span tts:direction="rtl">نعم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:11:13" end="00:31:12:14"><span tts:direction="rtl">إذاً، اتفقنا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:12:16" end="00:31:16:02"><span tts:direction="rtl">الرسالة مخبأة في القرية</span><br/><span tts:direction="rtl">في حانة شرق "بلود وود".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:16:23" end="00:31:18:22"><span tts:direction="rtl">أظنني بحاجة إلى مرقأة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:19:01" end="00:31:22:13"><span tts:direction="rtl">لماذا؟ حتى تقتل من جديد؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:25:00" end="00:31:26:12"><span tts:direction="rtl">لا أظن ذلك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:33:22" end="00:31:35:13"><span tts:direction="rtl">لا نملك العدد الكافي من الحراس</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:35:15" end="00:31:37:19"><span tts:direction="rtl">للدفاع عن القلعة</span><br/><span tts:direction="rtl">إن قام أولئك الجنود بالهجوم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:37:21" end="00:31:40:17"><span tts:direction="rtl">هذا لن يحدث.</span><br/><span tts:direction="rtl">لن أدع أحداً يؤذي عائلتي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:40:19" end="00:31:43:06"><span tts:direction="rtl">أنوي مواجهة من يتهمني مباشرة</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:43:08" end="00:31:46:00"><span tts:direction="rtl">سأدفع لهم وأخبرهم بأنني لست عدوهم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:50:00" end="00:31:50:23"><span tts:direction="rtl">الملكة "كاثرين".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:51:01" end="00:31:53:07"><span tts:direction="rtl">افتحي الأبواب واستسلمي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:53:09" end="00:31:57:18"><span tts:direction="rtl">إن خرجت بهدوء، أعدك أنه</span><br/><span tts:direction="rtl">لن يتأذى أي فرد من عائلتك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:31:57:20" end="00:32:01:23"><span tts:direction="rtl">إن قتلتني</span><br/><span tts:direction="rtl">فسيتجول القتلة الحقيقيون بحرية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:32:02:01" end="00:32:03:13"><span tts:direction="rtl">أعرف أنكم غاضبون أيها الرجال...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:32:03:15" end="00:32:04:21"><span tts:direction="rtl">افتحوا البوابات.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:32:04:23" end="00:32:07:08"><span tts:direction="rtl">فليخفض الجميع سلاحه.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:32:07:10" end="00:32:08:13"><span tts:direction="rtl">سأخرج.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:32:08:15" end="00:32:11:13"><span tts:direction="rtl">"ستيفان"، خذ "تشارلز" إلى الداخل</span><br/><span tts:direction="rtl">وأوصدوا الأبواب.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:32:12:08" end="00:32:13:20"><span tts:direction="rtl">سأتحدث معهم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:32:15:06" end="00:32:16:09"><span tts:direction="rtl">"تشارلز"، اذهب!</span></p>
+      <p style="style.default" region="region.after.center" begin="00:32:17:08" end="00:32:18:14"><span tts:direction="rtl">افتحوا البوابات.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:32:21:04" end="00:32:23:03"><span tts:direction="rtl">ما هذا؟ رجال!</span></p>
+      <p style="style.default" region="region.after.center" begin="00:33:02:13" end="00:33:04:18"><span tts:direction="rtl">أنا "ماري ستيوارت"</span><br/><span tts:direction="rtl">ملكة الإسكتلنديين.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:33:04:20" end="00:33:06:11"><span tts:direction="rtl">من هو قائدكم؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:33:09:17" end="00:33:11:14"><span tts:direction="rtl">اطلب من رجالك أن يخفضوا سلاحهم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:33:11:16" end="00:33:15:14"><span tts:direction="rtl">الملكة "ماري"، حاربنا باسمك</span><br/><span tts:direction="rtl">في "إسكتلندا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:33:15:16" end="00:33:17:11"><span tts:direction="rtl">والآن أنت تقفين ضدنا؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:33:17:13" end="00:33:22:08"><span tts:direction="rtl">جئت لأدافع عن الملكة الوصية</span><br/><span tts:direction="rtl">لأنها لم تقتل جنرالاتكم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:33:23:12" end="00:33:27:17"><span tts:direction="rtl">اسمعوني، جميعكم</span><br/><span tts:direction="rtl">الملكة "كاثرين" بريئة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:33:27:20" end="00:33:31:16"><span tts:direction="rtl">هناك مجموعة سرية</span><br/><span tts:direction="rtl">تعمل ضد آل "فالوا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:33:31:18" end="00:33:34:21"><span tts:direction="rtl">قتلة يسعون للإيقاع بـ"كاثرين".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:33:34:23" end="00:33:36:08"><span tts:direction="rtl">الوصية على عرش "فرنسا"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:33:36:10" end="00:33:40:14"><span tts:direction="rtl">ويغرقوا المملكة في الفوضى والرعب.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:33:41:18" end="00:33:45:13"><span tts:direction="rtl">إن انقلبتم ضدها</span><br/><span tts:direction="rtl">أنتم تنقلبون ضد "فرنسا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:33:45:15" end="00:33:49:05"><span tts:direction="rtl">وسأحاربكم مثلما سأحاربهم</span><br/><span tts:direction="rtl">حتى الموت.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:33:53:00" end="00:33:58:05"><span tts:direction="rtl">أسألكم كمواطنين فرنسيين</span><br/><span tts:direction="rtl">أن تتخذوا الخيار الصحيح اليوم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:33:58:07" end="00:34:00:12"><span tts:direction="rtl">"كاثرين" لا تزال ملكتكم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:34:00:14" end="00:34:02:17"><span tts:direction="rtl">"فرنسا" لا تزال بلادكم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:34:02:19" end="00:34:03:21"><span tts:direction="rtl">دياركم...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:34:03:23" end="00:34:06:07"><span tts:direction="rtl">مثلما كانت دياري منذ صغري.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:34:06:09" end="00:34:09:00"><span tts:direction="rtl">هذه بلادنا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:34:09:02" end="00:34:11:13"><span tts:direction="rtl">لا يمكننا تركها تحترق.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:34:11:15" end="00:34:15:19"><span tts:direction="rtl">يجب أن نصغي إلى ضميرنا</span><br/><span tts:direction="rtl">ونتخذ الخيار الصحيح.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:34:18:17" end="00:34:20:09"><span tts:direction="rtl">لذا اختاروا الآن.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:34:42:07" end="00:34:43:11"><span tts:direction="rtl">إنهم يرحلون.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:34:49:01" end="00:34:52:06"><span tts:direction="rtl">"ماري" أنقذتك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:35:12:17" end="00:35:15:15"><span tts:direction="rtl">تأكدوا من أن كل شيء مؤمن.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:35:15:17" end="00:35:19:09"><span tts:direction="rtl">"كاثرين"، سمعت عن "كريستوف".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:35:19:11" end="00:35:21:11"><span tts:direction="rtl">- هل أنت بخير؟</span><br/><span tts:direction="rtl">- أنا بخير. كانت صدمة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:35:21:13" end="00:35:24:08"><span tts:direction="rtl">قال "باش" إنه قتل "ديلفين" المسكينة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:35:24:10" end="00:35:28:12"><span tts:direction="rtl">كان المسؤول عن كل</span><br/><span tts:direction="rtl">عمليات انتزاع القلوب الشنيعة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:35:28:14" end="00:35:30:18"><span tts:direction="rtl">اختيارك للرجال غالباً</span><br/><span tts:direction="rtl">ما ترك أمراً مرغوباً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:35:31:19" end="00:35:35:23"><span tts:direction="rtl">أجد نفسي ممتنة لوجودك</span><br/><span tts:direction="rtl">إلى جانبي هذه الأيام.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:35:36:01" end="00:35:38:04"><span tts:direction="rtl">أنت الرجل الوحيد الذي...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:35:38:06" end="00:35:41:07"><span tts:direction="rtl">"كاثرين"! سأغادر "فرنسا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:35:41:09" end="00:35:42:21"><span tts:direction="rtl">لماذا؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:35:42:23" end="00:35:45:21"><span tts:direction="rtl">تم تلافي الأزمة. لقد تراجع العسكر.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:35:45:23" end="00:35:47:14"><span tts:direction="rtl">لماذا؟ حقاً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:35:48:18" end="00:35:54:14"><span tts:direction="rtl">مؤخراً اتهمتني ملكة الإسكتلنديين</span><br/><span tts:direction="rtl">بأنني زوج أناني</span></p>
+      <p style="style.default" region="region.after.center" begin="00:35:54:16" end="00:35:59:02"><span tts:direction="rtl">بأنني أهتم في منصبي</span><br/><span tts:direction="rtl">أكثر مما أهتم بزوجتي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:35:59:04" end="00:36:01:10"><span tts:direction="rtl">سأرحل من أجل تحرير "لولا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:36:01:12" end="00:36:04:09"><span tts:direction="rtl">- بسبب ما قالته "ماري"؟</span><br/><span tts:direction="rtl">- ليس هذا فقط.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:36:06:06" end="00:36:11:14"><span tts:direction="rtl">بل أيضاً لأننا نعمل أنا وأنت</span><br/><span tts:direction="rtl">بانسجام تام، "كاثرين".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:36:11:16" end="00:36:14:00"><span tts:direction="rtl">كثيراً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:36:14:02" end="00:36:17:19"><span tts:direction="rtl">أريد أن أذهب الآت. أريد المحاربة</span><br/><span tts:direction="rtl">من أجل "لولا". أريد أن أنقذها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:36:17:21" end="00:36:21:06"><span tts:direction="rtl">أريد أن أنقذ ما جمعنا سابقاً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:36:21:08" end="00:36:23:10"><span tts:direction="rtl">تدمرت علاقتنا بشكل يتعذر إصلاحها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:36:23:12" end="00:36:25:06"><span tts:direction="rtl">تدمرت بسببي. بسببنا؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:36:25:08" end="00:36:26:10"><span tts:direction="rtl">نعم.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:36:27:17" end="00:36:31:03"><span tts:direction="rtl">هذا أروع إطراء قلته لي يوماً.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:36:33:17" end="00:36:35:00"><span tts:direction="rtl">سأعود.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:36:36:17" end="00:36:38:23"><span tts:direction="rtl">رحلة موفقة أيها السيد المستشار</span></p>
+      <p style="style.default" region="region.after.center" begin="00:36:40:03" end="00:36:42:01"><span tts:direction="rtl">إلى اللقاء ثانية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:36:52:18" end="00:36:54:17"><span tts:direction="rtl">"سيباستيان"، ماذا تفعل جالساً</span><br/><span tts:direction="rtl">على مكتبي؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:36:54:19" end="00:36:57:03"><span tts:direction="rtl">كنت تحمين "كريستوف".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:36:57:05" end="00:36:59:01"><span tts:direction="rtl">وأعرف لماذا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:36:59:03" end="00:37:00:09"><span tts:direction="rtl">عم تتكلم؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:00:11" end="00:37:02:11"><span tts:direction="rtl">دفعت للدوق "بيونيل" ليضرب "كلود"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:02:13" end="00:37:05:06"><span tts:direction="rtl">كل هذا كي تتمكني</span><br/><span tts:direction="rtl">من أخذ الوصاية من "نارسيس".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:05:08" end="00:37:06:23"><span tts:direction="rtl">هذا ما كان "كريستوف"</span><br/><span tts:direction="rtl">يحمله ضدك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:07:01" end="00:37:09:05"><span tts:direction="rtl">هذه ترهات. من أخبرك بهذا؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:09:07" end="00:37:11:03"><span tts:direction="rtl">"سيباستيان" أنت...</span><br/><span tts:direction="rtl">- عرفت أنه قاتل.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:11:05" end="00:37:14:02"><span tts:direction="rtl">وحميته، فقط كي يكتم هو أسرارك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:14:04" end="00:37:18:05"><span tts:direction="rtl">سمحت له بمواصلة تجواله</span><br/><span tts:direction="rtl">في هذه الأروقة ضمن حرس الملك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:18:07" end="00:37:20:21"><span tts:direction="rtl">ماتت "ديلفين" بسببك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:20:23" end="00:37:24:18"><span tts:direction="rtl">إياك أن تحملني مسؤولية</span><br/><span tts:direction="rtl">مقتل تلك الفتاة المسكينة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:24:20" end="00:37:28:07"><span tts:direction="rtl">كيف لك أن تصدق رجلًا مجنوناً</span><br/><span tts:direction="rtl">بدلًا مني؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:28:09" end="00:37:30:21"><span tts:direction="rtl">"سيباستيان"، نحن عائلة.</span><br/><span tts:direction="rtl">لقد كنت بمثابة...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:30:23" end="00:37:33:01"><span tts:direction="rtl">بمثابة أم لي؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:33:03" end="00:37:34:16"><span tts:direction="rtl">حين مات "فرانسيس"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:34:18" end="00:37:37:12"><span tts:direction="rtl">شعرت بوحدة فراسلت أمي الحقيقية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:37:14" end="00:37:40:04"><span tts:direction="rtl">بعثت رسائل لـ"ديان" في جميع قصورها.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:40:06" end="00:37:42:01"><span tts:direction="rtl">لم تجاوبني قط.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:43:11" end="00:37:46:11"><span tts:direction="rtl">حين أدركت ما فعلته في ابنتيك</span><br/><span tts:direction="rtl">قبل سنوات</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:46:13" end="00:37:49:04"><span tts:direction="rtl">أبعدت "ديان" عن حياتي</span><br/><span tts:direction="rtl">ليس فقط بسبب جريمتيها</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:49:06" end="00:37:52:00"><span tts:direction="rtl">بل لأنني عرفت</span><br/><span tts:direction="rtl">أنك إن اكتشفت يوماً الحقيقة</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:52:02" end="00:37:55:03"><span tts:direction="rtl">ستقتلين أمي بيديك المجردتين.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:55:05" end="00:37:58:02"><span tts:direction="rtl">منذ أن فُقدت، لا أنفك أتساءل.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:58:04" end="00:37:59:11"><span tts:direction="rtl">لست تفكر بوضوح.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:37:59:13" end="00:38:00:23"><span tts:direction="rtl">هل قتلتها؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:38:02:12" end="00:38:04:22"><span tts:direction="rtl">هل قتلت أمي؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:38:05:00" end="00:38:08:05"><span tts:direction="rtl">قتلت ابنتي، صغيرتي.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:38:11:03" end="00:38:13:05"><span tts:direction="rtl">أين هي؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:38:13:07" end="00:38:15:23"><span tts:direction="rtl">- تستحق أمي دفناً لائقاً.</span><br/><span tts:direction="rtl">- حقاً؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:38:17:23" end="00:38:19:12"><span tts:direction="rtl">جثتها في البحر.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:38:25:22" end="00:38:26:18"><span tts:direction="rtl">"باش"، فكر!</span></p>
+      <p style="style.default" region="region.after.center" begin="00:38:26:20" end="00:38:28:22"><span tts:direction="rtl">أنا الوصية على عرش "فرنسا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:38:30:21" end="00:38:33:07"><span tts:direction="rtl">كيف ستفسر وفاتي على يديك؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:38:33:09" end="00:38:34:21"><span tts:direction="rtl">ليس لديك أي دليل.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:38:37:14" end="00:38:40:06"><span tts:direction="rtl">هل أمك، المرأة التي قد تضحي</span><br/><span tts:direction="rtl">بأي كان</span></p>
+      <p style="style.default" region="region.after.center" begin="00:38:40:08" end="00:38:43:10"><span tts:direction="rtl">من أجل مكسبها الشخصي</span><br/><span tts:direction="rtl">تستحق الموت لأجلها؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:38:53:21" end="00:38:56:06"><span tts:direction="rtl">بما أنك الملك الحقيقي لـ"فرنسا"</span></p>
+      <p style="style.default" region="region.after.center" begin="00:38:57:16" end="00:38:59:09"><span tts:direction="rtl">اعتبري هذه استقالتي</span><br/><span tts:direction="rtl">من منصبي كمساعدك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:07:20" end="00:39:11:03"><span tts:direction="rtl">تحتقرني ومع ذلك تتوقع رحلة مجانية؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:11:05" end="00:39:14:06"><span tts:direction="rtl">توشكين على الإبحار في قارب</span><br/><span tts:direction="rtl">مليء بالمرتزقة غير المعروفين.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:14:08" end="00:39:15:04"><span tts:direction="rtl">يمكنني أن أوفر لك الحماية</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:15:06" end="00:39:17:14"><span tts:direction="rtl">والخبرة الاستراتيجية طوال الرحلة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:17:16" end="00:39:20:22"><span tts:direction="rtl">وحين نصل إلى "إسكتلندا"</span><br/><span tts:direction="rtl">سيذهب كل منا في طريقه.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:21:00" end="00:39:23:02"><span tts:direction="rtl">ستذهب إلى "إنكلترا" لتحرر "لولا"؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:23:04" end="00:39:25:03"><span tts:direction="rtl">إن ظننت أنني سأترك</span><br/><span tts:direction="rtl">سلامة زوجتي بين يديك</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:25:05" end="00:39:27:13"><span tts:direction="rtl">سامحيني على ما سأقوله</span><br/><span tts:direction="rtl">لكنك فقدت صوابك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:27:15" end="00:39:30:12"><span tts:direction="rtl">- هل أقاطع شيئاً؟</span><br/><span tts:direction="rtl">- "باش"، ماذا تفعل هنا؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:30:14" end="00:39:32:02"><span tts:direction="rtl">هل لديك مكان</span><br/><span tts:direction="rtl">لاستقبال شخص إضافي؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:32:04" end="00:39:34:11"><span tts:direction="rtl">يجب أن توفي مكاناً</span><br/><span tts:direction="rtl">في حال سيصعد هذا الوضيع.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:34:13" end="00:39:37:15"><span tts:direction="rtl">- سأكون على متن القارب.</span><br/><span tts:direction="rtl">- "سيباستيان"، قلت لك...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:37:17" end="00:39:39:10"><span tts:direction="rtl">لم يبق لي شيء هنا.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:39:12" end="00:39:40:19"><span tts:direction="rtl">لا يمكنني البقاء.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:40:21" end="00:39:41:19"><span tts:direction="rtl">ماذا جرى؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:43:05" end="00:39:45:04"><span tts:direction="rtl">يجب أن أغادر "فرنسا".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:45:06" end="00:39:47:15"><span tts:direction="rtl">وأنت بحاجة إلى شخص</span><br/><span tts:direction="rtl">تثقين به إلى جانبك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:47:17" end="00:39:50:13"><span tts:direction="rtl">قد أحتاج إلى صديق</span><br/><span tts:direction="rtl">في الرحلة المقبلة.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:50:15" end="00:39:53:01"><span tts:direction="rtl">يسرني أن أراك. شكراً لك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:39:59:23" end="00:40:02:13"><span tts:direction="rtl">"فرنسا"...</span></p>
+      <p style="style.default" region="region.after.center" begin="00:40:02:15" end="00:40:04:15"><span tts:direction="rtl">أظن أنني لن أراك ثانية.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:40:11:10" end="00:40:15:06"><span tts:direction="rtl">- ما هذه؟</span><br/><span tts:direction="rtl">- هدية وداع من "باش".</span></p>
+      <p style="style.default" region="region.after.center" begin="00:40:18:09" end="00:40:22:06"><span tts:direction="rtl">جعلت شقيقتي تتعرض للضرب</span><br/><span tts:direction="rtl">حتى تستعيدي الوصاية؟</span></p>
+      <p style="style.default" region="region.after.center" begin="00:40:22:08" end="00:40:24:01"><span tts:direction="rtl">غدرت بي وخدعتني.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:40:24:03" end="00:40:26:14"><span tts:direction="rtl">- "كلود"، أرجوك، أرجوك...</span><br/><span tts:direction="rtl">- فلتهلكي!</span></p>
+      <p style="style.default" region="region.after.center" begin="00:40:26:16" end="00:40:29:06"><span tts:direction="rtl">قد تكونين الوصية، ولكنني الملك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:40:29:08" end="00:40:31:19"><span tts:direction="rtl">وستدفعين ثمن ما فعلته.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:40:50:19" end="00:40:53:13"><span tts:direction="rtl">العاصفة تزداد سوءاً.</span><br/><span tts:direction="rtl">يجب أن تعودي إلى غرفتك.</span></p>
+      <p style="style.default" region="region.after.center" begin="00:40:53:15" end="00:40:54:17"><span tts:direction="rtl">- مولاتي!</span><br/><span tts:direction="rtl">- الآن.</span></p>
+    </div>
+  </body>
+</tt>
